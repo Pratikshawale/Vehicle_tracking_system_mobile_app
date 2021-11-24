@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "887341452",
+    "project_id": "expo-fcm-app",
+    "storage_bucket": "expo-fcm-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887341452:android:a4056e16f1a9de02bb16a9",
+        "android_client_info": {
+          "package_name": "com.thingsspace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887341452-e7topvd4qksnnj9u34qqfcjo382jlm47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHGK5znevgjMYGJmDTfBnJ-wS1BIUXeMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887341452-e7topvd4qksnnj9u34qqfcjo382jlm47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
